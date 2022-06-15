@@ -11,11 +11,14 @@ Online Banking System Desktop Application successfully able to perform mutliple 
 # 😘 Interests
 
 Learning and experimenting with new stuff 🧪 i am currently learning Cpp, ReactJS
+
+
 Anime 🍃 currently finishing Naruto Shippuden 
 
 
 # 💬 REACH ME
 linkedin : https://www.linkedin.com/in/apram/ 
+
 mail : apram235ahuja@gmail.com
 
 my website ?? in progress 🚧
