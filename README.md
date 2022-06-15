@@ -4,7 +4,7 @@ My name is Apram, interested in coding and contributing something useful to comm
 
  📽  Most Recent Projects
 
-Online Banking System Desktop Application successfully able to perform mutliple transactions and hold and re-load the info of accounts created 
+Online Banking System Desktop Application successfully able to perform mutliple transactions and re-load the info of accounts created 
 ( Java + Java Swing for GUI)
 
 
