@@ -2,13 +2,13 @@
 
 My name is Apram, interested in coding and contributing something useful to community :) Here's some get to know me info 
 
-# 📽  Most Recent Projects
+ 📽  Most Recent Projects
 
 Online Banking System Desktop Application successfully able to perform mutliple transactions and hold and re-load the info of accounts created 
 ( Java + Java Swing for GUI)
 
 
-# 😘 Interests
+😘 Interests
 
 Learning and experimenting with new stuff 🧪 i am currently learning Cpp, ReactJS
 
@@ -16,7 +16,7 @@ Learning and experimenting with new stuff 🧪 i am currently learning Cpp, Reac
 Anime 🍃 currently finishing Naruto Shippuden 
 
 
-# 💬 REACH ME
+💬 REACH ME
 linkedin : https://www.linkedin.com/in/apram/ 
 
 mail : apram235ahuja@gmail.com
