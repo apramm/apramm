@@ -1,4 +1,4 @@
-# Heyy there 👋👋👋
+# Heyy 👋👋👋
 
 My name is Apram, interested in coding and contributing something useful to community :) Here's some get to know me info 
 
