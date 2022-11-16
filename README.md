@@ -13,16 +13,20 @@ Online Banking System Desktop Application successfully able to perform mutliple 
 Learning and experimenting with new stuff 🧪 i am currently learning Cpp, ReactJS
 
 
-Anime 🍃 currently finishing Naruto Shippuden 
+Anime 🍃 
+using denji's philosophy for dreams
 
 
 💬 REACH ME
 
-linkedin : https://www.linkedin.com/in/apram/ 
 
-mail : apram235ahuja@gmail.com
+<img src="https://user-images.githubusercontent.com/36915004/202095704-dce3b2ad-1394-41af-b0cd-f02fd8ca6b98.png"  style = "width : 20px; ">               <a href="https://www.linkedin.com/in/apram/"> LinkedIn </a>
 
-my website ?? in progress 🚧
+
+
+<img src="https://user-images.githubusercontent.com/36915004/202095509-7550beba-960e-48e5-99fb-47256549f154.png" width="20">  [Mail](apram235ahuja@gmail.com)
+
+
 
 
 
