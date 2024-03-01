@@ -6,7 +6,7 @@ I'm a Mathematics and Data Science student at University of British Columbia
 * 👀 Currently looking for Winter 2023 Co-op opportunities
 * 🤩 Interested in systems programming, AI alignment, machine learning
 * 🥊 Kickboxing, Brazilian Jiu-jitsu and Sambo enthusiast
-* 🔎 Find more about me 🌐 <a href = "https://apramm.github.io/apri-io" >apri-io</a>
+* 🔎 Find more about me 🌐 <a href = "https://apramahuja.vercel.app/" >apramahuja.vercel.app</a>
 
 ![Hits](https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Fapramm)
 
