@@ -13,7 +13,6 @@ I'm a Mathematics and Data Science student at University of British Columbia
 
 <p align="center">
  <a href = "https://www.linkedin.com/in/apram/" target="_blank" rel="noreferrer"><img src = "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"/></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/apram235ahuja/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>&nbsp;&nbsp;
  <a href="https://www.instagram.com/apramahuja/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> &nbsp;&nbsp;
  <a href="https://twitter.com/apram0235" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;&nbsp;
 <a href = "mailto:apram235ahuja@gmail.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/36915004/202095509-7550beba-960e-48e5-99fb-47256549f154.png" width="32" height="32"/></a>
