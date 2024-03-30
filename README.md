@@ -2,11 +2,11 @@
 <a href = "https://discord.com/users/747373605142396939"><img align='right' src="https://lanyard.cnrad.dev/api/747373605142396939"></a>
 I'm a Mathematics and Data Science student at University of British Columbia  
 
-* 🌏 Currently based in Vancouver, Canada
-* 👀 Currently looking for Winter 2023 Co-op opportunities
-* 🤩 Interested in systems programming, AI alignment, machine learning
-* 🥊 Kickboxing, Brazilian Jiu-jitsu and Sambo enthusiast
-* 🔎 Find more about me 🌐 <a href = "https://apramahuja.vercel.app/" >apramahuja.vercel.app</a>
+🌏 Currently based in Vancouver, Canada <br/>
+🥺 Currently looking for Summer/Fall 2024 opportunities  <br/>
+🤩 Interested in systems programming, AI alignment, machine learning  <br/>
+🥊 Kickboxing, Brazilian Jiu-jitsu and Sambo enthusiast  <br/>
+🫡 Visit 🌐 <a href = "https://apramahuja.vercel.app/" >apramahuja.vercel.app</a> to meet my favourite pokemon  <br/>
 
 ![Hits](https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Fapramm)
 
