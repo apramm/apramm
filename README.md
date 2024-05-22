@@ -8,7 +8,6 @@ I'm a Computer Science and Data Science student at University of British Columbi
 🥊 Kickboxing, Brazilian Jiu-jitsu and Sambo enthusiast  <br/>
 🫡 Visit 🌐 <a href = "https://apramahuja.vercel.app/" >apramahuja.vercel.app</a> to meet my favourite pokemon  <br/>
 
-![Hits](https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Fapramm)
 
 
 <p align="center">
