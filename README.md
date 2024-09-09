@@ -3,9 +3,10 @@
 I'm a Computer Science and Data Science student at University of British Columbia  
 
 🌏 Currently based in Vancouver, Canada <br/>
-🥺 Currently looking for Fall 2024 internship opportunities  <br/>
+💼 Interning at Optum as DevOps Engineer <br/>
+🥺 Currently looking for Summer 2025 internship opportunities  <br/>
 🤩 Interested in systems programming, AI alignment, machine learning  <br/>
-🥊 Kickboxing, Brazilian Jiu-jitsu and Sambo enthusiast  <br/>
+🥊 Kickboxing, Brazilian Jiu-jitsu and Calesthenics enthusiast  <br/>
 🫡 Visit 🌐 <a href = "https://apramahuja.vercel.app/" >apramahuja.vercel.app</a> to meet my favourite pokemon  <br/>
 
 
