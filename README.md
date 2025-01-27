@@ -1,19 +1,28 @@
-# Hi 👋
+# Hi there 👋
 <a href = "https://discord.com/users/747373605142396939"><img align='right' src="https://lanyard.cnrad.dev/api/747373605142396939"></a>
-I'm a Computer Science and Data Science student at University of British Columbia  
 
-🌏 Currently based in Vancouver, Canada <br/>
-💼 Interning at Optum as DevOps Engineer <br/>
-🥺 Currently looking for Summer 2025 internship opportunities  <br/>
-🤩 Interested in systems programming, AI alignment, machine learning  <br/>
-🥊 Kickboxing, Brazilian Jiu-jitsu and Calesthenics enthusiast  <br/>
-🫡 Visit 🌐 <a href = "https://apramahuja.vercel.app/" >apramahuja.vercel.app</a> to meet my favourite pokemon  <br/>
+
+💼 What I'm currently upto :
+* Software & DevOps Engineer Intern at <b>Optum (UnitedHealth Group) </b>  <br/>
+* Teaching Assistant at <b>University of British Columbia </b> - Intermediate Algorithm Design<br/>
+
+
+
+🥺 Where I'm headed to : 
+* Summer 2025 internship opportunities  <br/>
+* Building projects that can impact my daily life such as automated finance tracker, <a href = "https://github.com/apramm/ufc-betting-pred">ufc betting predictor</a> etc. <br/>
+* Improving my DSalgo interviewing skills 😔 <a href= "https://github.com/apramm/DailyNeetcode150">Neetcode150</a>
+* Training for <a href="https://bmovanmarathon.ca/halfmarathon"> BMO half marathon</a> and iron man in future 🤞<br/>
+
+
+🫡 To get in touch visit 🌐 <a href = "https://apramahuja.vercel.app/" >apramahuja.vercel.app</a>  <br/>
 
 
 
 <p align="center">
  <a href = "https://www.linkedin.com/in/apram/" target="_blank" rel="noreferrer"><img src = "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"/></a>&nbsp;&nbsp;
  <a href="https://www.instagram.com/apramahuja/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> &nbsp;&nbsp;
+ <a href= "https://www.strava.com/athletes/144141823" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/175478?s=200&v=4" width="32" height="32" /> </a> &nbsp;&nbsp;
  <a href="https://twitter.com/apram0235" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;&nbsp;
 <a href = "mailto:apram235ahuja@gmail.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/36915004/202095509-7550beba-960e-48e5-99fb-47256549f154.png" width="32" height="32"/></a>
 </p>
