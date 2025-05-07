@@ -3,16 +3,17 @@
 
 
 💼 What I'm currently upto :
-* Software & DevOps Engineer Intern at <b>Optum (UnitedHealth Group) </b>  <br/>
+* Software Developer at Emerging Media Lab  <br/>
 * Teaching Assistant at <b>University of British Columbia </b> - Intermediate Algorithm Design<br/>
+* Prev. Software & DevOps Engineer Intern at <b>Optum (UnitedHealth Group) 
 
 
 
 🥺 Where I'm headed to : 
-* Summer 2025 internship opportunities  <br/>
+* Fall 2025 internship opportunities  <br/>
 * Building projects that can impact my daily life such as automated finance tracker, <a href = "https://github.com/apramm/ufc-betting-pred">ufc betting predictor</a> etc. <br/>
 * Improving my DSalgo interviewing skills 😔 <a href= "https://github.com/apramm/DailyNeetcode150">Neetcode150</a>
-* Training for <a href="https://bmovanmarathon.ca/halfmarathon"> BMO half marathon</a> and iron man in future 🤞<br/>
+* Training for sub 20 5k and marathon next 🤞<br/>
 
 
 🫡 To get in touch visit 🌐 <a href = "https://apramahuja.vercel.app/" >apramahuja.vercel.app</a>  <br/>
