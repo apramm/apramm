@@ -2,15 +2,15 @@
 <a href = "https://discord.com/users/747373605142396939"><img align='right' src="https://lanyard.cnrad.dev/api/747373605142396939"></a>
 
 
-💼 What I'm currently upto :
+💼 work exp :
 * Software Developer at Emerging Media Lab  <br/>
 * Teaching Assistant at <b>University of British Columbia </b> - Intermediate Algorithm Design<br/>
-* Prev. Software & DevOps Engineer Intern at <b>Optum (UnitedHealth Group) 
+* Prev. Software & DevOps Engineer Intern at <b>Optum (UnitedHealth Group) </b>
 
 
 
-🥺 Where I'm headed to : 
-* Fall 2025 internship opportunities  <br/>
+💪 working on : 
+* Fall 2025 internship  <br/>
 * Building projects that can impact my daily life such as automated finance tracker, <a href = "https://github.com/apramm/ufc-betting-pred">ufc betting predictor</a> etc. <br/>
 * Improving my DSalgo interviewing skills 😔 <a href= "https://github.com/apramm/DailyNeetcode150">Neetcode150</a>
 * Training for sub 20 5k and marathon next 🤞<br/>
