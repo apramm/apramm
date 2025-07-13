@@ -16,7 +16,7 @@
 * Training for sub 20 5k and marathon next 🤞<br/>
 
 
-✌️ To get in touch visit <a href = "https://apramahuja.vercel.app/" >apramahuja.vercel.app</a> <br/>
+✌️ To get in touch visit <a href = "https://apramahuja.com/" >apramahuja.com</a> <br/>
 
 
 
