@@ -3,7 +3,8 @@
 <a href = "https://discord.com/users/747373605142396939"><img align='right' src="https://lanyard.cnrad.dev/api/747373605142396939"></a>
 
 
-work exp
+
+work <img alt="Naruto" title="anime" height="23px" src="assets/xp.png"></p>
 
 👨‍💻 Software Developer at <b>Emerging Media Lab</b>  <br/>
 🧑‍🏫 Teaching Assistant for Intermediate Algorithm Design<br/>
