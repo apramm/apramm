@@ -1,20 +1,22 @@
 
-# Hi there 👋
+<h1 align="center">Hi 👋, I'm Apram</h1>
 <a href = "https://discord.com/users/747373605142396939"><img align='right' src="https://lanyard.cnrad.dev/api/747373605142396939"></a>
 
 
-💼  work exp :
-* Software Developer at <b>Emerging Media Lab</b>  <br/>
-* Teaching Assistant for Intermediate Algorithm Design<br/>
-* Prev. Software & DevOps Engineer Intern at <b>Optum (UnitedHealth Group) </b>
+work exp
+
+👨‍💻 Software Developer at <b>Emerging Media Lab</b>  <br/>
+🧑‍🏫 Teaching Assistant for Intermediate Algorithm Design<br/>
+📊 Prev. Software & DevOps Engineer Intern at <b>Optum (UnitedHealth Group) </b>
 
 
 
-💪 working on : 
-* Fall 2025 internship  <br/>
-* Building projects that can impact my daily life such as automated finance tracker, <a href = "https://github.com/apramm/ufc-betting-pred">ufc betting predictor</a> etc. <br/>
-* Improving my DSalgo interviewing skills <a href= "https://github.com/apramm/DailyNeetcode150">Neetcode150</a>
-* Training for sub 20 5k and marathon next 🤞<br/>
+ 💼 working on
+
+🔭 Fall 2025 internship  <br/>
+🌱 Building : <a href = "https://github.com/apramm/ufc-betting-pred">ufc betting predictor</a>, <a href = "https://github.com/apramm/jaiyzusSC"> youtube superchat counter </a> <br/>
+👨‍💻 Improving my DSalgo interviewing skills <a href= "https://github.com/apramm/DailyNeetcode150">Neetcode150</a> <br/>
+🏃‍♂️ Training for sub 20 5k and marathon next 🤞<br/>
 
 
 ✌️ To get in touch visit <a href = "https://apramahuja.com/" >apramahuja.com</a> <br/>
