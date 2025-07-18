@@ -6,7 +6,7 @@
 
 work <img alt="xp" title="xp" height="23px" src="assets/xp.png"></p>
 
-👨‍💻 Software Developer at <b>Emerging Media Lab</b>  <br/>
+👨‍💻 Software Developer at <b>UBC Emerging Media Lab</b>  <br/>
 🧑‍🏫 Teaching Assistant for Intermediate Algorithm Design<br/>
 📊 Prev. Software & DevOps Engineer Intern at <b>Optum (UnitedHealth Group) </b>
 
