@@ -16,7 +16,7 @@ building on
 <img alt="building" title="building" height="35px" src="assets/builder.png"><br/>
 
 🔭 Fall 2025 internship  <br/>
-👨‍💻 DSAlgo for interview <a href= "https://github.com/apramm/DailyNeetcode150">Neetcode150</a> <br/>
+👨‍💻 DSAlgo for interview <a href= "https://github.com/apramm/SomeLeetodce">SomeLeetcode</a> <br/>
 🌱 ongoing <a href = "https://github.com/billsplittr/BillSplittr"> Split Bill </a> + <a href = "https://github.com/apramm/jaiyzusSC"> yt superchat </a> + <a href = "https://github.com/apramm/ufc-betting-pred">ufc parlays</a><br/>
 🏃‍♂️ Training for sub 20 5k and marathon next 🤞<br/>
 
