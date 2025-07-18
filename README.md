@@ -1,5 +1,4 @@
 
-<img align="top" alt="bar" title="anime" height="2px" width=100% src="assets/rainbow.gif"></p>
 # Hi there 👋
 <a href = "https://discord.com/users/747373605142396939"><img align='right' src="https://lanyard.cnrad.dev/api/747373605142396939"></a>
 
@@ -60,9 +59,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apramm&show_icons=true&locale=en&theme=tokyonight&bg_color=00000000" alt="apramm" />
 <!--   <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=apramm&layout=compact&theme=tokyonight&bg_color=00000000"/> -->
 <img align="right" alt="Naruto" title="anime" height="180px" src="assets/naruto.gif"></p>
-
-
-<img align="top" alt="bar" title="anime" height="2px" width=100% src="assets/rainbow.gif"></p>
 
 
 
