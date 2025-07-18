@@ -4,7 +4,7 @@
 
 
 
-work <img alt="Naruto" title="anime" height="23px" src="assets/xp.png"></p>
+work <img alt="xp" title="xp" height="23px" src="assets/xp.png"></p>
 
 👨‍💻 Software Developer at <b>Emerging Media Lab</b>  <br/>
 🧑‍🏫 Teaching Assistant for Intermediate Algorithm Design<br/>
@@ -12,11 +12,11 @@ work <img alt="Naruto" title="anime" height="23px" src="assets/xp.png"></p>
 
 
 
- 💼 working on
+<img align = "left" alt="building" title="building" height="35px" src="assets/builder.png"></p> on
 
 🔭 Fall 2025 internship  <br/>
-🌱 Building : <a href = "https://github.com/apramm/ufc-betting-pred">ufc betting predictor</a>, <a href = "https://github.com/apramm/jaiyzusSC"> youtube superchat counter </a> <br/>
-👨‍💻 Improving my DSalgo interviewing skills <a href= "https://github.com/apramm/DailyNeetcode150">Neetcode150</a> <br/>
+👨‍💻 DSAlgo for interview <a href= "https://github.com/apramm/DailyNeetcode150">Neetcode150</a> <br/>
+🌱 ongoing <a href = "https://github.com/billsplittr/BillSplittr"> Split Bill </a>,  <a href = "https://github.com/apramm/jaiyzusSC"> yt superchat </a>, <a href = "https://github.com/apramm/ufc-betting-pred">ufc parlays</a><br/>
 🏃‍♂️ Training for sub 20 5k and marathon next 🤞<br/>
 
 
