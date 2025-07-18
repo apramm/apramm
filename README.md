@@ -12,11 +12,12 @@ work <img alt="xp" title="xp" height="23px" src="assets/xp.png"></p>
 
 
 
-<img align = "left" alt="building" title="building" height="35px" src="assets/builder.png"></p> on
+building on 
+<img alt="building" title="building" height="35px" src="assets/builder.png"><br/>
 
 🔭 Fall 2025 internship  <br/>
 👨‍💻 DSAlgo for interview <a href= "https://github.com/apramm/DailyNeetcode150">Neetcode150</a> <br/>
-🌱 ongoing <a href = "https://github.com/billsplittr/BillSplittr"> Split Bill </a>,  <a href = "https://github.com/apramm/jaiyzusSC"> yt superchat </a>, <a href = "https://github.com/apramm/ufc-betting-pred">ufc parlays</a><br/>
+🌱 ongoing <a href = "https://github.com/billsplittr/BillSplittr"> Split Bill </a> + <a href = "https://github.com/apramm/jaiyzusSC"> yt superchat </a> + <a href = "https://github.com/apramm/ufc-betting-pred">ufc parlays</a><br/>
 🏃‍♂️ Training for sub 20 5k and marathon next 🤞<br/>
 
 
