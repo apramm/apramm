@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Apram</h1>
+<h1 align="left">Hi 👋   I'm Apram</h1>
 <a href = "https://discord.com/users/747373605142396939"><img align='right' src="https://lanyard.cnrad.dev/api/747373605142396939"></a>
 
 
@@ -21,7 +21,9 @@ building on
 🏃‍♂️ Training for sub 20 5k and marathon next 🤞<br/>
 
 
-✌️ To get in touch visit <a href = "https://apramahuja.com/" >apramahuja.com</a> <br/>
+✌️ To get in touch visit <a href = "https://apramahuja.com/" >apramahuja.com</a> 
+
+job? 📄 <a href = "https://apramm.github.io/resume/"> Resume </a> <br/>
 
 
 
