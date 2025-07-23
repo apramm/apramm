@@ -1,6 +1,7 @@
 
 <h1 align="left">Hi 👋   I'm Apram</h1>
-<a href = "https://discord.com/users/747373605142396939"><img align='right' src="https://lanyard.cnrad.dev/api/747373605142396939"></a>
+<!-- <a href = "https://discord.com/users/747373605142396939"><img align='right' src="https://lanyard.cnrad.dev/api/747373605142396939"></a> -->
+<img align="right" alt="Naruto" title="anime" height="250px" src="assets/naruto.gif"></p>
 
 
 
@@ -58,11 +59,8 @@ building on
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apramm&show_icons=true&locale=en&theme=tokyonight&bg_color=00000000" alt="apramm" />
-<!--   <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=apramm&layout=compact&theme=tokyonight&bg_color=00000000"/> -->
-<img align="right" alt="Naruto" title="anime" height="180px" src="assets/naruto.gif"></p>
-
-
-
-
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=apramm&show_icons=true&locale=en&theme=tokyonight&bg_color=00000000" alt="apramm" />
+<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=apramm&hide=Jupyter+Notebook,html,css,javascript&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight&bg_color=00000000"/>
+<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apramm&theme=transparent" alt="apramm" />
+ -->
 
