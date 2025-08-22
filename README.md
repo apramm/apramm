@@ -24,7 +24,7 @@ building on
 
 ✌️ To get in touch visit <a href = "https://apramahuja.com/" >apramahuja.com</a> 
 
-<a href="https://apramm.github.io/resume/" target="_blank">
+<a href="https://apramm.github.io/docs/?docs=resume" target="_blank">
   <img src="https://img.shields.io/badge/View%20Resume-Click%20Here-blue" alt="Resume">
 </a><br/>
 
