@@ -7,19 +7,20 @@
 
 work <img alt="xp" title="xp" height="23px" src="assets/xp.png"></p>
 
-👨‍💻 Software Developer at <b>UBC Emerging Media Lab</b>  <br/>
+👨‍💻  Software Developer at <b>Aquatic Informatics</b> <br/>
 🧑‍🏫 Teaching Assistant for Intermediate Algorithm Design<br/>
-📊 Prev. Software & DevOps Engineer Intern at <b>Optum (UnitedHealth Group) </b>
+⏪ Previous : <br/>
+Software Developer at <b>UBC Emerging Media Lab</b></a> <br/>
+Infra & DevOps Engineer Intern at <b>Optum (UnitedHealth Group) </b>
 
 
+ building on
+<img alt="building" title="building" height="40px" src="assets/builder.png"><br/>
 
-building on 
-<img alt="building" title="building" height="35px" src="assets/builder.png"><br/>
-
-🔭 Fall 2025 internship  <br/>
+🔭 Winter 2026 internship  <br/>
 👨‍💻 DSAlgo for interview <a href= "https://github.com/apramm/SomeLeetodce" style="color:red; text-decoration:underline;">SomeLeetcode</a> <br/>
-🌱 ongoing <a href = "https://github.com/billsplittr/BillSplittr"> Split Bill </a> + <a href = "https://github.com/apramm/jaiyzusSC"> yt superchat </a> + <a href = "https://github.com/apramm/ufc-betting-pred">ufc parlays</a><br/>
-🏃‍♂️ Training for sub 20 5k and marathon next 🤞<br/>
+🌱 upcoming projects <a href = "https://github.com/billsplittr/BillSplittr"> Split Bill </a> + ubc sections <br/>
+🏃‍♂️ Aiming for sub 20 5k @GreatTrek and marathon next 🤞<br/>
 
 
 ✌️ To get in touch visit <a href = "https://apramahuja.com/" >apramahuja.com</a> 
