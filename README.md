@@ -7,9 +7,9 @@
 
 work <img alt="xp" title="xp" height="23px" src="assets/xp.png"></p>
 
-👨‍💻  Software Developer at <b>Aquatic Informatics</b> <br/>
-🧑‍🏫 Teaching Assistant for Intermediate Algorithm Design<br/>
+🧑‍🏫 4x Teaching Assistant for Intermediate Algorithm Design<br/>
 ⏪ Previous : <br/>
+Software Engineering Intern at <b>Aquatic Informatics</b> <br/>
 Software Developer at <b>UBC Emerging Media Lab</b></a> <br/>
 Infra & DevOps Engineer Intern at <b>Optum (UnitedHealth Group) </b>
 
@@ -17,10 +17,9 @@ Infra & DevOps Engineer Intern at <b>Optum (UnitedHealth Group) </b>
  building on
 <img alt="building" title="building" height="40px" src="assets/builder.png"><br/>
 
-🔭 Winter 2026 internship  <br/>
-👨‍💻 DSAlgo for interview <a href= "https://github.com/apramm/SomeLeetodce" style="color:red; text-decoration:underline;">SomeLeetcode</a> <br/>
-🌱 upcoming projects <a href = "https://github.com/billsplittr/BillSplittr"> Split Bill </a> + ubc sections <br/>
-🏃‍♂️ Aiming for sub 20 5k @GreatTrek and marathon next 🤞<br/>
+👨‍💻 DSAlgo logs at <a href= "https://github.com/apramm/SomeLeetodce" style="color:red; text-decoration:underline;">SomeLeetcode</a> <br/>
+🌱 upcoming projects <a href = "https://github.com/billsplittr/BillSplittr"> Split Bill </a> + deploying ubc sections <br/>
+🏃‍♂️ skills to unlock : backflip, muscle up and marathon 🤞<br/>
 
 
 ✌️ To get in touch visit <a href = "https://apramahuja.com/" >apramahuja.com</a> 
