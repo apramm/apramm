@@ -34,6 +34,7 @@ Infra & DevOps Engineer Intern at <b>Optum (UnitedHealth Group) </b>
  <a href= "https://www.strava.com/athletes/144141823" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/175478?s=200&v=4" width="32" height="32" /> </a> &nbsp;&nbsp;
  <a href="https://twitter.com/apram0235" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;&nbsp;
 <a href = "mailto:apram235ahuja@gmail.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/36915004/202095509-7550beba-960e-48e5-99fb-47256549f154.png" width="32" height="32"/></a>
+ <a href="https://www.buymeacoffee.com/apramahuja" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="30px"></a>
 </p>
 
 
