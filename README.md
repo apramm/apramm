@@ -60,8 +60,6 @@ Infra & DevOps Engineer Intern at <b>Optum (UnitedHealth Group) </b>
 </p>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=apramm&show_icons=true&locale=en&theme=tokyonight&bg_color=00000000" alt="apramm" />
-<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=apramm&hide=Jupyter+Notebook,html,css,javascript&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight&bg_color=00000000"/>
-<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apramm&theme=transparent" alt="apramm" />
- -->
+
+
 
