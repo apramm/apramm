@@ -60,6 +60,9 @@ Infra & DevOps Engineer Intern at <b>Optum (UnitedHealth Group) </b>
 </p>
 
 ![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+
+
 
 
 
