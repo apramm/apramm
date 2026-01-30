@@ -59,6 +59,7 @@ Infra & DevOps Engineer Intern at <b>Optum (UnitedHealth Group) </b>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>&nbsp;
 </p>
 
+![Stats](./profile/stats.svg)
 
 
 
