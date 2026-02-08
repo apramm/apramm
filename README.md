@@ -18,6 +18,7 @@ Infra & DevOps Engineer Intern at <b>Optum (UnitedHealth Group) </b>
 <img alt="building" title="building" height="40px" src="assets/builder.png"><br/>
 
 👨‍💻 DSAlgo logs at <a href= "https://github.com/apramm/SomeLeetodce" style="color:red; text-decoration:underline;">SomeLeetcode</a> <br/>
+📕 Reading logs at <a href= "https://apramm.github.io/apramreads/" style="color:red; text-decoration:underline;">apram reads</a> <br/>
 🌱 upcoming projects <a href = "https://github.com/billsplittr/BillSplittr"> Split Bill </a> + deploying ubc sections <br/>
 🏃‍♂️ skills to unlock : backflip, muscle up and marathon 🤞<br/>
 
