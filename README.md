@@ -15,7 +15,7 @@ work <img alt="xp" title="xp" height="23px" src="assets/xp.png"></p>
 ⏪ Prev <br/>
 Software Engineering Intern <b>Aquatic Informatics</b> <br/>
 Software Developer <b>UBC Emerging Media Lab</b></a> <br/>
-Infra & DevOps Engineer Intern <b>Optum (UnitedHealth Group) </b>
+Infra & DevOps Intern <b>Optum (UnitedHealth Group) </b>
 
 
  building on
