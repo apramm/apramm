@@ -7,11 +7,12 @@
 
 work <img alt="xp" title="xp" height="23px" src="assets/xp.png"></p>
 
+💳 Incoming SWE Intern <b>Mastercard</b> <br/>
 🧑‍🏫 4x Teaching Assistant for Intermediate Algorithm Design<br/>
 ⏪ Previous : <br/>
-Software Engineering Intern at <b>Aquatic Informatics</b> <br/>
-Software Developer at <b>UBC Emerging Media Lab</b></a> <br/>
-Infra & DevOps Engineer Intern at <b>Optum (UnitedHealth Group) </b>
+Software Engineering Intern <b>Aquatic Informatics</b> <br/>
+Software Developer <b>UBC Emerging Media Lab</b></a> <br/>
+Infra & DevOps Engineer Intern <b>Optum (UnitedHealth Group) </b>
 
 
  building on
