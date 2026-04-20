@@ -19,7 +19,6 @@ Infra & DevOps Intern <b>Optum (UnitedHealth Group) </b>
  builder on
 <img alt="building" title="building" height="40px" src="assets/builder.png"><br/>
 
-<a href = "https://discord.com/users/747373605142396939"><img align='right' src="https://lanyard.cnrad.dev/api/747373605142396939"></a> 
 
 
 👨‍💻 DSA logs <a href= "https://github.com/apramm/SomeLeetodce" style="color:red; text-decoration:underline;">SomeLeetcode</a> <br/>
