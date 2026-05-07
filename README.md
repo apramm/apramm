@@ -5,7 +5,7 @@
 
 work <img alt="xp" title="xp" height="23px" src="assets/xp.png"></p>
 
-💳 Incoming SWE Intern <b>Mastercard</b> <br/>
+💳 SWE Intern <b>Mastercard</b> <br/>
 🧑‍🏫 4x Teaching Assistant <b>CPSC 320</b> Algorithm Design<br/>
 
 <br/>
