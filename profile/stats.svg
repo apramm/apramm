@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Apram Ahuja's GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 9, Total Commits  (last year) : 274, Total PRs: 3, Total Issues: 6, Contributed to (last year): 1</desc>
+        <title id="titleId">Apram Ahuja's GitHub Stats, Rank: C+</title>
+        <desc id="descId">Total Stars Earned: 9, Total Commits  (last year) : 273, Total PRs: 3, Total Issues: 6, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 183.35459691283188;
+        stroke-dashoffset: 192.9826250244143;
       }
     }
   
@@ -166,7 +166,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >274</text>
+      >273</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
