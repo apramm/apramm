@@ -6,7 +6,7 @@
 work <img alt="xp" title="xp" height="23px" src="assets/xp.png"></p>
 
 💳 SWE Intern <b>Mastercard</b> <br/>
-🧑‍🏫 4x Teaching Assistant <b>CPSC 320</b> Algorithm Design<br/>
+🧑‍🏫 Lead Teaching Assistant <b>CPSC 320</b> Algorithm Design<br/>
 
 <br/>
 
@@ -16,7 +16,7 @@ Software Developer <b>UBC Emerging Media Lab</b></a> <br/>
 Infra & DevOps Intern <b>Optum (UnitedHealth Group) </b>
 
 
- builder on
+ building on
 <img alt="building" title="building" height="40px" src="assets/builder.png"><br/>
 
 
