@@ -12,7 +12,7 @@ Lead Teaching Assistant <b>CPSC 320 Algorithm Design </b> <br/>
 
 ⏪ Prev <br/>
 SWE Intern <b>Mastercard 💳 </b> <br/>
-Software Engineering Intern <b>Aquatic Informatics (Veralto) 💧 </b> <br/>
+Software Engineering Intern <b>Veralto 💧 </b> <br/>
 Software Developer <b>UBC Emerging Media Lab 🔬 </b></a> <br/>
 Infra & DevOps Intern <b>Optum (UnitedHealth Group) 🏥 </b>
 
