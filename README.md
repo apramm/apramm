@@ -20,8 +20,8 @@ Infra & DevOps Intern <b>Optum (UnitedHealth Group) 🏥 </b>
 
 <!-- <img alt="building" title="building" height="40px" src="assets/builder.png"><br/> -->
 👨‍💻 DSAlgo <a href= "https://github.com/apramm/SomeLeetodce" style="color:red; text-decoration:underline;">SomeLeetcode</a> <br/>
-📕 Read <a href= "https://apramm.github.io/apramreads/" style="color:red; text-decoration:underline;">Apram Reads</a> <br/>
-🏃‍♂️ Marathon, Backflip and MuscleUp on <a href="https://www.strava.com/athletes/144141823">Strava</a><br/>
+📕 Read <a href= "https://apramm.github.io/apramreads/" style="color:red; text-decoration:underline;" target="_blank" rel="noopener noreferrer">Apram Reads</a> <br/>
+🏃‍♂️ Marathon, Backflip and MuscleUp on <a href="https://www.strava.com/athletes/144141823" target="_blank" rel="noopener noreferrer">Strava</a><br/>
 🌱 upcoming projects ??? <br/>
 
 
@@ -31,12 +31,12 @@ Infra & DevOps Intern <b>Optum (UnitedHealth Group) 🏥 </b>
 
 
 
-<a href="https://apramm.github.io/docs/?doc=resume" target="_blank">
+<a href="https://apramm.github.io/docs/?doc=resume" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/View%20Resume-Click%20Here-blue" alt="Resume">
 </a><br/>
 
 
-<a href="https://apramahuja.com/">apramahuja.com </a>
+<a href="https://apramahuja.com/" target="_blank" rel="noopener noreferrer">apramahuja.com </a>
 
 
 
