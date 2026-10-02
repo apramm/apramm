@@ -36,7 +36,7 @@ Infra & DevOps Intern <b>Optum (UnitedHealth Group) 🏥 </b>
 </a><br/>
 
 
-<a href="apramahuja.com">apramahuja.com </a>
+<a href="https://apramahuja.com/">apramahuja.com </a>
 
 
 
